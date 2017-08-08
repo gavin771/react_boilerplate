@@ -2,7 +2,7 @@
 
 The intention for this project is to have a codebase that can be forked/cloned and used to easily get up and running with a React project. <br/>
 The bulk of the heavy lifting here is handled by [Create React App](https://github.com/facebookincubator/create-react-app). I have just added some hooks to verify coding standards & commit messages, a suggested folder structure and scripts to deploy to github pages, as outlined by [Create React App](https://github.com/facebookincubator/create-react-app). <br />
-Much of this configuration I learnt from following Jesse Weigel and [his stream](https://www.youtube.com/watch?v=OUPBEpfBEXo&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc) on YouTube. Abig shout ]out to [freecodecamp](https://www.freecodecamp.org/) as well 
+Much of this configuration I learnt from following Jesse Weigel and [his stream](https://www.youtube.com/watch?v=OUPBEpfBEXo&list=PLWKjhJtqVAbkxYR9ly9ksx8UYyCpBRmMc) on YouTube. A big shout out to [freecodecamp](https://www.freecodecamp.org/) as well.
 
 ## Table of Contents
 
